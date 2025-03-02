@@ -1,3 +1,11 @@
+"""
+Algoritmo CART Utilizando librerias
+codigo rescatado de: https://github.com/TrainingByPackt/Applied-Supervised-Learning-with-Python/blob/master/Chapter%204%20-%20Classification/Exercise%2042%20-%20Iris%20Classification%20Using%20a%20CART%20Decision%20Tree.ipynb?short_path=fd4eea2
+ultima modificacion: 25/02/2025
+participantes: Manzanilla Martinez Leonardo Manuel || OLIVARES CONTRERAS ALEJANDRO
+"""
+
+
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
