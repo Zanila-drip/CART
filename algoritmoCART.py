@@ -1,3 +1,11 @@
+"""
+Algoritmo CART
+codigo rescatado de: https://github.com/aliabbas101/WennovationAcademy/blob/master/Hands-On-MachineLearning-using-Python/nderstanding%20Decision%20Trees%20(CART)-Classification-implementation.ipynb
+ultima modificacion: 25/02/2025
+participantes en el codigo: Manzanilla Martinez Leonardo Manuel || OLIVARES CONTRERAS ALEJANDRO
+"""
+
+
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.preprocessing import LabelEncoder
